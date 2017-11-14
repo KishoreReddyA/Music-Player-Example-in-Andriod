@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="song1_name">Aasan Nahin Yahan</string>
+    <string name="song1_singer">Arjit Singh</string>
+    <string name="song2_name">Bhula Dena</string>
+    <string name="song2_singer">Mustafa Zahid</string>
+    <string name="song3_name">Evevo Kalalu kanna</string>
+    <string name="song3_singer">Akhil Akkineni | Hello 2017</string>
+    <string name="song4_name">Oosupodu Oorukodu</string>
+    <string name="song4_singer">Vedala Hemachandra</string>
+    <string name="song5_name">Bombhat pori</string>
+    <string name="song5_singer">Mani Sharma</string>
+    <string name="song6_name">Edo jarugutondi</string>
+    <string name="song6_singer">Aravind Srinivas,Renuka</string>
+    <string name="song7_name">Meri Aashiqui</string>
+    <string name="song7_singer">Palak Muchhal</string>
+    <string name="song8_name">Sunn raha hai</string>
+    <string name="song8_singer">Shreya Ghoshal</string>
+    <string name="song9_name">Nuvvele Nuvvele</string>
+    <string name="song9_singer">Swetha Mohan</string>
+    <string name="song10_name">Fidaa</string>
+    <string name="song10_singer">Vedala Hemachandra,Malavika</string>
+    <string name="song11_name">Hey Pillagaada</string>
+    <string name="song11_singer">Sindhuri Vishal,Sinov Raj</string>
+</resources>
+
